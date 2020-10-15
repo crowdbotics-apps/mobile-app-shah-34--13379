@@ -25,7 +25,7 @@ export default class Blank extends React.Component {
   
   state = {};
 
-  render = () => (
+  render = () => ( 
     <View style={styles.container}>
       <Text>This is your new component for testiing</Text>
     </View>
